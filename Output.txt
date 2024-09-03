@@ -1,0 +1,372 @@
+
+<<<<<<<<<<<<<<<<<<<<--------------------SINGLY LINEAR LINKED LIST-------------------->>>>>>>>>>>>>>>>>>>>
+
+---------------INTEGER Linked List---------------
+
+Inside Constructor
+| 11|-> | 21|-> | 51|-> NULL
+Number of elemensts are : 3
+| 11|-> | 21|-> | 51|-> | 101|-> | 111|-> | 121|-> NULL
+Number of elemensts are : 6
+| 11|-> | 21|-> | 51|-> | 101|-> | 105|-> | 111|-> | 121|-> NULL
+Number of elemensts are : 7
+| 11|-> | 21|-> | 51|-> | 101|-> | 111|-> | 121|-> NULL
+Number of elemensts are : 6
+
+---------------CHARACTER Linked List---------------
+
+Inside Constructor
+| C|-> | B|-> | A|-> NULL
+Number of elemensts are : 3
+| C|-> | B|-> | A|-> | D|-> | E|-> | F|-> NULL
+Number of elemensts are : 6
+| C|-> | B|-> | A|-> | D|-> | G|-> | E|-> | F|-> NULL
+Number of elemensts are : 7
+| C|-> | B|-> | A|-> | D|-> | E|-> | F|-> NULL
+Number of elemensts are : 6
+
+---------------FLOAT Linked List---------------
+
+Inside Constructor
+| 12.36|-> | 23.2|-> | 12.3|-> NULL
+Number of elemensts are : 3
+| 12.36|-> | 23.2|-> | 12.3|-> | 45.62|-> | 78.69|-> | 78.69|-> NULL
+Number of elemensts are : 6
+| 12.36|-> | 23.2|-> | 12.3|-> | 45.62|-> | 45.56|-> | 78.69|-> | 78.69|-> NULL
+Number of elemensts are : 7
+| 12.36|-> | 23.2|-> | 12.3|-> | 45.62|-> | 78.69|-> | 78.69|-> NULL
+Number of elemensts are : 6
+
+---------------DOUBLE Linked List---------------
+
+Inside Constructor
+| 12.363|-> | 23.203|-> | 12.303|-> NULL
+Number of elemensts are : 3
+| 12.363|-> | 23.203|-> | 12.303|-> | 45.624|-> | 78.694|-> | 78.692|-> NULL
+Number of elemensts are : 6
+| 12.363|-> | 23.203|-> | 12.303|-> | 45.624|-> | 45.5612|-> | 78.694|-> | 78.692|-> NULL
+Number of elemensts are : 7
+| 12.363|-> | 23.203|-> | 12.303|-> | 45.624|-> | 78.694|-> | 78.692|-> NULL
+Number of elemensts are : 6
+
+<<<<<<<<<<<<<<<<<<<<--------------------SINGNLY CIRCULAR LINKED LIST-------------------->>>>>>>>>>>>>>>>>>>>
+
+---------------INTEGER Linked List---------------
+
+Inside Constructor
+| 11|-> | 21|-> | 51|-> 
+Number of elemensts are : 3
+| 11|-> | 21|-> | 51|-> | 101|-> | 111|-> | 121|-> 
+Number of elemensts are : 6
+| 11|-> | 21|-> | 51|-> | 101|-> | 105|-> | 111|-> | 121|-> 
+Number of elemensts are : 7
+| 11|-> | 21|-> | 51|-> | 101|-> | 111|-> | 121|-> 
+Number of elemensts are : 6
+
+---------------CHARACTER Linked List---------------
+
+Inside Constructor
+| C|-> | B|-> | A|-> 
+Number of elemensts are : 3
+| C|-> | B|-> | A|-> | D|-> | E|-> | F|-> 
+Number of elemensts are : 6
+| C|-> | B|-> | A|-> | D|-> | G|-> | E|-> | F|-> 
+Number of elemensts are : 7
+| C|-> | B|-> | A|-> | D|-> | E|-> | F|-> 
+Number of elemensts are : 6
+
+---------------FLOAT Linked List---------------
+
+Inside Constructor
+| 12.36|-> | 23.2|-> | 12.3|-> 
+Number of elemensts are : 3
+| 12.36|-> | 23.2|-> | 12.3|-> | 45.62|-> | 78.69|-> | 78.69|-> 
+Number of elemensts are : 6
+| 12.36|-> | 23.2|-> | 12.3|-> | 45.62|-> | 45.56|-> | 78.69|-> | 78.69|-> 
+Number of elemensts are : 7
+| 12.36|-> | 23.2|-> | 12.3|-> | 45.62|-> | 78.69|-> | 78.69|-> 
+Number of elemensts are : 6
+
+---------------DOUBLE Linked List---------------
+
+Inside Constructor
+| 12.363|-> | 23.203|-> | 12.303|-> 
+Number of elemensts are : 3
+| 12.363|-> | 23.203|-> | 12.303|-> | 45.624|-> | 78.694|-> | 78.692|-> 
+Number of elemensts are : 6
+| 12.363|-> | 23.203|-> | 12.303|-> | 45.624|-> | 45.5612|-> | 78.694|-> | 78.692|-> 
+Number of elemensts are : 7
+| 12.363|-> | 23.203|-> | 12.303|-> | 45.624|-> | 78.694|-> | 78.692|-> 
+Number of elemensts are : 6
+
+<<<<<<<<<<<<<<<<<<<<--------------------DOUBLY LINEAR LINKED LIST-------------------->>>>>>>>>>>>>>>>>>>>
+
+---------------INTEGER Linked List---------------
+
+NULL <=> | 11 | <=> | 21 | <=> | 51 | <=> NULL
+Number of elemensts are : 3
+NULL <=> | 11 | <=> | 21 | <=> | 51 | <=> | 101 | <=> | 111 | <=> | 121 | <=> NULL
+Number of elemensts are : 6
+NULL <=> | 11 | <=> | 21 | <=> | 51 | <=> | 101 | <=> | 105 | <=> | 111 | <=> | 121 | <=> NULL
+Number of elemensts are : 7
+NULL <=> | 11 | <=> | 21 | <=> | 51 | <=> | 101 | <=> | 111 | <=> | 121 | <=> NULL
+Number of elemensts are : 6
+
+---------------CHARACTER Linked List---------------
+
+NULL <=> | C | <=> | B | <=> | A | <=> NULL
+Number of elemensts are : 3
+NULL <=> | C | <=> | B | <=> | A | <=> | D | <=> | E | <=> | F | <=> NULL
+Number of elemensts are : 6
+NULL <=> | C | <=> | B | <=> | A | <=> | D | <=> | G | <=> | E | <=> | F | <=> NULL
+Number of elemensts are : 7
+NULL <=> | C | <=> | B | <=> | A | <=> | D | <=> | E | <=> | F | <=> NULL
+Number of elemensts are : 6
+
+---------------FLOAT Linked List---------------
+
+NULL <=> | 12.36 | <=> | 23.2 | <=> | 12.3 | <=> NULL
+Number of elemensts are : 3
+NULL <=> | 12.36 | <=> | 23.2 | <=> | 12.3 | <=> | 45.62 | <=> | 78.69 | <=> | 78.69 | <=> NULL
+Number of elemensts are : 6
+NULL <=> | 12.36 | <=> | 23.2 | <=> | 12.3 | <=> | 45.62 | <=> | 45.56 | <=> | 78.69 | <=> | 78.69 | <=> NULL
+Number of elemensts are : 7
+NULL <=> | 12.36 | <=> | 23.2 | <=> | 12.3 | <=> | 45.62 | <=> | 78.69 | <=> | 78.69 | <=> NULL
+Number of elemensts are : 6
+
+---------------DOUBLE Linked List---------------
+
+NULL <=> | 12.363 | <=> | 23.203 | <=> | 12.303 | <=> NULL
+Number of elemensts are : 3
+NULL <=> | 12.363 | <=> | 23.203 | <=> | 12.303 | <=> | 45.624 | <=> | 78.694 | <=> | 78.692 | <=> NULL
+Number of elemensts are : 6
+NULL <=> | 12.363 | <=> | 23.203 | <=> | 12.303 | <=> | 45.624 | <=> | 45.5612 | <=> | 78.694 | <=> | 78.692 | <=> NULL
+Number of elemensts are : 7
+NULL <=> | 12.363 | <=> | 23.203 | <=> | 12.303 | <=> | 45.624 | <=> | 78.694 | <=> | 78.692 | <=> NULL
+Number of elemensts are : 6
+
+<<<<<<<<<<<<<<<<<<<<--------------------DOUBLY CIRCULAR LINKED LIST-------------------->>>>>>>>>>>>>>>>>>>>
+
+---------------INTEGER Linked List---------------
+
+<=> | 11| <=> | 21| <=> | 51| <=> 
+Number of elemensts are : 3
+<=> | 11| <=> | 21| <=> | 51| <=> | 101| <=> | 111| <=> | 121| <=> 
+Number of elemensts are : 6
+<=> | 11| <=> | 21| <=> | 51| <=> | 101| <=> | 105| <=> | 111| <=> | 121| <=> 
+Number of elemensts are : 7
+<=> | 11| <=> | 21| <=> | 51| <=> | 101| <=> | 111| <=> | 121| <=> 
+Number of elemensts are : 6
+
+---------------CHARACTER Linked List---------------
+
+<=> | C| <=> | B| <=> | A| <=> 
+Number of elemensts are : 3
+<=> | C| <=> | B| <=> | A| <=> | D| <=> | E| <=> | F| <=> 
+Number of elemensts are : 6
+<=> | C| <=> | B| <=> | A| <=> | D| <=> | G| <=> | E| <=> | F| <=> 
+Number of elemensts are : 7
+<=> | C| <=> | B| <=> | A| <=> | D| <=> | E| <=> | F| <=> 
+Number of elemensts are : 6
+
+---------------FLOAT Linked List---------------
+
+<=> | 12.36| <=> | 23.2| <=> | 12.3| <=> 
+Number of elemensts are : 3
+<=> | 12.36| <=> | 23.2| <=> | 12.3| <=> | 45.62| <=> | 78.69| <=> | 78.69| <=> 
+Number of elemensts are : 6
+<=> | 12.36| <=> | 23.2| <=> | 12.3| <=> | 45.62| <=> | 45.56| <=> | 78.69| <=> | 78.69| <=> 
+Number of elemensts are : 7
+<=> | 12.36| <=> | 23.2| <=> | 12.3| <=> | 45.62| <=> | 78.69| <=> | 78.69| <=> 
+Number of elemensts are : 6
+
+---------------DOUBLE Linked List---------------
+
+<=> | 12.363| <=> | 23.203| <=> | 12.303| <=> 
+Number of elemensts are : 3
+<=> | 12.363| <=> | 23.203| <=> | 12.303| <=> | 45.624| <=> | 78.694| <=> | 78.692| <=> 
+Number of elemensts are : 6
+<=> | 12.363| <=> | 23.203| <=> | 12.303| <=> | 45.624| <=> | 45.5612| <=> | 78.694| <=> | 78.692| <=> 
+Number of elemensts are : 7
+<=> | 12.363| <=> | 23.203| <=> | 12.303| <=> | 45.624| <=> | 78.694| <=> | 78.692| <=> 
+Number of elemensts are : 6
+
+<<<<<<<<<<<<<<<<<<<<--------------------STACK-------------------->>>>>>>>>>>>>>>>>>>>
+
+-----------------------STACK FOLLOWS LIFO ORDER-----------------------
+
+-----------------------INTEGER-----------------------
+
+Elements of stack are : 
+40
+30
+20
+10
+
+Number of elements in the stack are : 4
+Popped element is : 40
+Popped element is : 30
+Elements of stack are : 
+20
+10
+
+Number of elements in the stack are : 2
+Elements of stack are : 
+50
+20
+10
+
+Number of elements in the stack are : 3
+
+-----------------------FLOAT-----------------------
+
+Elements of stack are : 
+40.36
+30.25
+20.3
+10.9
+
+Number of elements in the stack are : 4
+Popped element is : 40.36
+Popped element is : 30.25
+Elements of stack are : 
+20.3
+10.9
+
+Number of elements in the stack are : 2
+Elements of stack are : 
+50.36
+20.3
+10.9
+
+Number of elements in the stack are : 3
+
+-----------------------CHARACTER-----------------------
+
+Elements of stack are : 
+D
+C
+B
+A
+
+Number of elements in the stack are : 
+Popped element is : D
+Popped element is : C
+Elements of stack are : 
+B
+A
+
+Number of elements in the stack are : 
+Elements of stack are : 
+T
+B
+A
+
+Number of elements in the stack are : 
+
+-----------------------DOUBLE-----------------------
+
+Elements of stack are : 
+40.3646
+30.2537
+20.3046
+10.9081
+
+Number of elements in the stack are : 4
+Popped element is : 40.3646
+Popped element is : 30.2537
+Elements of stack are : 
+20.3046
+10.9081
+
+Number of elements in the stack are : 2
+Elements of stack are : 
+50.3675
+20.3046
+10.9081
+
+Number of elements in the stack are : 3
+
+<<<<<<<<<<<<<<<<<<<<--------------------QUEUE-------------------->>>>>>>>>>>>>>>>>>>>
+
+-----------------------QUEUE FOLLOWS FIFO ORDER-----------------------
+
+-----------------------INTEGER-----------------------
+
+Elements of Queue are: 	10
+20
+30
+40
+
+Number of elements in the Queue are : 4
+DeQueued element is : 10
+DeQueued element is : 20
+Elements of Queue are: 	30
+40
+
+Number of elements in the Queue are : 2
+Elements of Queue are: 	30
+40
+50
+
+Number of elements in the Queue are : 3
+
+-----------------------FLOAT-----------------------
+
+Elements of Queue are: 	10.9
+20.3
+30.25
+40.36
+
+Number of elements in the Queue are : 4
+DeQueued element is : 10
+DeQueued element is : 20
+Elements of Queue are: 	30.25
+40.36
+
+Number of elements in the Queue are : 2
+Elements of Queue are: 	30.25
+40.36
+50.36
+
+Number of elements in the Queue are : 3
+
+-----------------------CHARACTER-----------------------
+
+Elements of Queue are: 	A
+B
+C
+D
+
+Number of elements in the Queue are : 
+DeQueued element is : A
+DeQueued element is : B
+Elements of Queue are: 	C
+D
+
+Number of elements in the Queue are : 
+Elements of Queue are: 	C
+D
+T
+
+Number of elements in the Queue are : 
+
+-----------------------DOUBLE-----------------------
+
+Elements of Queue are: 	10.9081
+20.3046
+30.2537
+40.3646
+
+Number of elements in the Queue are : 4
+DeQueued element is : 10
+DeQueued element is : 20
+Elements of Queue are: 	30.2537
+40.3646
+
+Number of elements in the Queue are : 2
+Elements of Queue are: 	30.2537
+40.3646
+50.3675
+
+Number of elements in the Queue are : 3
